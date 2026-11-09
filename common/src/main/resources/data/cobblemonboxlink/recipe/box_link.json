@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "RSR",
+    "IPI",
+    "RSR"
+  ],
+  "key": {
+    "R": {"item": "minecraft:redstone"},
+    "I": {"item": "minecraft:iron_ingot"},
+    "S": {"item": "minecraft:shulker_shell"},
+    "P": {"item": "cobblemon:pc"}
+  },
+  "result": {
+    "item": "cobblemonboxlink:box_link"
+  }
+}
