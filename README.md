@@ -23,7 +23,7 @@ This project backports the Fabric edition of **Cobblemon Box Link** to Minecraft
 
 Original project: [Cobblemon Box Link by Emperdog](https://github.com/anabsolutesloth/cobblemonboxlink-multiloader)
 
-The port retains the upstream project’s LGPL-2.1-or-later license, required notices, icon, item model, and texture. Port-specific compatibility changes are by JustHari01. See `LICENSE` for the full license text.
+The port retains the upstream project’s LGPL-2.1 license, required notices, icon, item model, and texture. Port-specific compatibility changes are by JustHari01. See `LICENSE` for the full license text.
 
 ## Build
 
